@@ -10,3 +10,11 @@ and secondly, how the platforms compared against each other. We were also able t
 where the potential problem areas in England corresponding to the negative words associated with certain topics were found and the respective areas corresponding to positive patient
 experience, using a choropleth representation.
 
+In this readme we will walk you through the structure of the project. A combination of **python scripts** and **interactive python notebooks** were used to create this project. 
+
+**The ipynb notebooks were the main souce of our code**.
+
+**Notion**, which is an online notebook was also used to write notes, tutorial of how code works using code snippets. We will link the open notion's page whereever applicable.
+
+Also, the scripts have been tailored and tested to test a graph and python notebooks for experiments. The process to get the data was explained in the report, where we used a combination of sub python script for basic work such as json files manipulation, counting, merging,data style manipulation, etc... Excel was also extensively used for the data part. The data is available on a linked google drive link, and the structure is explained at the end.
+
